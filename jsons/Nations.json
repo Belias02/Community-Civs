@@ -156,9 +156,9 @@
     	        "hateHello": "Bad day",
     	        "tradeRequest": "Is this fair?",
 		"uniqueName": "Power in Faith",
-		"uniques": ["[+1 Science] per every [5] [Faith]",
- "[+1 Gold] per every [4] [Faith]",
-"[+1 Culture] per every [3] [Faith]",
+		"uniques": ["[+1 Science] per every [15] [Faith]",
+ "[+1 Gold] per every [15] [Faith]",
+"[+1 Culture] per every [15] [Faith]",
 "[-25]% [Faith] [in all cities]"],
 
 		"cities": ["Zulia","Wonderfort","Puerto unión","Monolith","Cumbres","Notmaracaibo","Buildercity",]
